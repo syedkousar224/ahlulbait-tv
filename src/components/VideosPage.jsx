@@ -3,7 +3,7 @@ import VideoPlayer from './VideoPlayer';
 
 function VideosPage({ onBack }) {
   const videos = [
-    { title: 'Video 1', src: '/videos/video1.mp4' },
+    { title: 'Video 1', src: '/videos/Video1.mp4' },
     { title: 'Video 2', src: '/videos/video2.mp4' },
     { title: 'Video 3', src: '/videos/video3.mp4' },
   ];
