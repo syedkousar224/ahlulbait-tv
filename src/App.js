@@ -12,9 +12,9 @@ function App() {
       <header className="glass-nav">
         <h1 className="logo">Ahlulbait Tv             بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ</h1>
         <nav>
-  <a href="/">Home</a>
-  <a href="/about">About</a>
-  <a href="/contact">Contact</a>
+  <button className="nav-link">Home</button>
+  <button className="nav-link">About</button>
+  <button className="nav-link">Contact</button>
 </nav>
       </header>
 
