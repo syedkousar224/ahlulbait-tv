@@ -12,10 +12,10 @@ function App() {
       <header className="glass-nav">
         <h1 className="logo">Ahlulbait Tv             بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ</h1>
         <nav>
-          <a href="#">Home</a>
-          <a href="#">About</a>
-          <a href="#">Contact</a>
-        </nav>
+  <a href="/">Home</a>
+  <a href="/about">About</a>
+  <a href="/contact">Contact</a>
+</nav>
       </header>
 
       <TabBar />
